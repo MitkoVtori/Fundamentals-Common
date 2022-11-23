@@ -1,7 +1,7 @@
 # Fundamentals common
 Here, I'll post projects, solved problems & others on different languages, that I mainaly self learn.
 
-| Conetnt  | 
+| <a href="SQL">SQL</a>  | 
 | ---------------- |
-| Content Cell     | 
-| Content Cell     |
+| <a href="SQL/MySQL">MySQL</a>     | 
+| <a href="SQL/MySQL/Database basics">Database basics</a>     |
