@@ -2,7 +2,7 @@
 
 Everything here, is what I learned my self by searching in google.
 <br>
-100% FREE studing
+100% FREE studying
 
 | Conetnt  | 
 | ---------------- |
