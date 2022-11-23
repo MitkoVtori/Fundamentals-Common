@@ -1,8 +1,5 @@
-# This is my self learn field
-
-Everything here, is what I learned my self by searching in google.
-<br>
-100% FREE studying
+# Fundamentals common
+Here, I'll post projects, solved problems & others on different languages, that I mainaly learn.
 
 | Conetnt  | 
 | ---------------- |
