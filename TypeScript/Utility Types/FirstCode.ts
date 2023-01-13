@@ -3,5 +3,5 @@ interface Point {
   y: number;
 }
 
-let pointPart: Partial<Point> = {}; // `Partial` allows x and y to be optional
+let pointPart: Partial<Point> = {};
 pointPart.x = 10;
