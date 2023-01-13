@@ -7,5 +7,5 @@ interface Car {
 let myCar: Required<Car> = {
   make: 'Ford',
   model: 'Focus',
-  mileage: 12000 // `Required` forces mileage to be defined
+  mileage: 12000
 };
